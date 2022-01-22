@@ -4,9 +4,9 @@
   <li><a href="https://www.armyresilience.army.mil/sharp/pages/assaulted.html">Army Resilience SHARP</a></li>
   <li><a href="https://www.protectourdefenders.com/">Protect Our Defenders</a></li>
   <li><a href="https://neveraloneadvocacy.org/">Never Alone Advocacy</a></li>
-  <li><a href="tel:+18779955247">DoD Safe Helpline: 877-995-5247 (they can connect you with your local SARC/VA)</a></li>
-  <li><a href="tel:+18554726538">Army Sexual Assault & Rape Prevention Hotline Available 24/7 hours 1-855-472-6538</a></li>
-  <li><a href="tel:+18006564673">National Sexual Assault Hotline Available 24 hours 1-800-656-4673</a></li>
+  <li><a class="phone" href="tel:+18779955247">DoD Safe Helpline: 877-995-5247 (they can connect you with your local SARC/VA)</a></li>
+  <li><a class="phone" href="tel:+18554726538">Army Sexual Assault & Rape Prevention Hotline Available 24/7 hours 1-855-472-6538</a></li>
+  <li><a class="phone" href="tel:+18006564673">National Sexual Assault Hotline Available 24 hours 1-800-656-4673</a></li>
   <li><a href="https://www.militaryonesource.mil/confidential-help/">Military OneSource Confidential Help</a></li>
 
 </ul><br>
