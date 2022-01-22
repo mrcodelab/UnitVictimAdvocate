@@ -15,7 +15,6 @@
 
 
 <h2><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/NationalGuard.md">National Guard</a></h2>
-<br>
 
 <h2>Collected Base Resources</h2>
 <ul>
