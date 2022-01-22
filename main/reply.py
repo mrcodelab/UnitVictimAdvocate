@@ -1,20 +1,50 @@
-# importing the module 
-import praw 
-  
-# initialize with appropriate values 
-client_id = "" 
-client_secret = "" 
-username = "" 
-password = "" 
-user_agent = "" 
-  
-# creating an authorized reddit instance 
-reddit = praw.Reddit(client_id = client_id,  
-                     client_secret = client_secret,  
-                     username = username,  
-                     password = password, 
-                     user_agent = user_agent)
-                     
-# Comment on a known submission
-submission = reddit.submission(url="https://www.reddit.com/comments/5e1az9")
-submission.reply("Super rad!") 
+import praw
+# import pdb
+import re
+import os
+import main.keywords as kw
+
+
+# Create the Reddit instance
+reddit = praw.Reddit('victimadvocate')
+
+# and login
+# reddit.login(REDDIT_USERNAME, REDDIT_PASS)
+
+# Have we run this code before? If not, create an empty list
+if not os.path.isfile("posts_replied_to.txt"):
+    posts_replied_to = []
+
+# If we have run the code before, load the list of posts we have replied to
+else:
+    # Read the file into a list and remove any empty values
+    with open("posts_replied_to.txt", "r") as f:
+        posts_replied_to = f.read()
+        posts_replied_to = posts_replied_to.split("\n")
+        posts_replied_to = list(filter(None, posts_replied_to))
+
+# Get the top 5 values from our subreddit
+subreddit = reddit.subreddit('Army')
+for submission in subreddit.new(limit=5):
+    # print(submission.title)
+
+    # If we haven't replied to this post before
+    if submission.id not in posts_replied_to:
+
+        # Do a case insensitive search
+        if re.search(kw, submission.title, re.IGNORECASE):
+            # Reply to the post
+            submission.reply(
+                "Reporting an assault WILL NOT result in negative " \n
+                "reprocussions toward you! You can find victim support" \n
+                "here: " \n
+                "https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/MainResources.md")
+            print("I am a bot replying to : ", submission.title)
+
+            # Store the current id into our list
+            posts_replied_to.append(submission.id)
+
+# Write our updated list back to the file
+with open("posts_replied_to.txt", "w") as f:
+    for post_id in posts_replied_to:
+        f.write(post_id + "\n")
