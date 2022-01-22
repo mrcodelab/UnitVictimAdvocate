@@ -16,15 +16,20 @@
 <h2><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/NationalGuard.md">National Guard</a></h2>
 <br>
 
-<h2>Collected Base Resources</>
+<h2>Collected Base Resources</h2>
 <ul>
   <li><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/Fort_Belvoir.md">Fort Belvoir</a></li>
   <li><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/Fort_Benning.md">Fort Benning</a></li>
+  <li><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/Fort_Bliss.md">Fort Bliss</a></li>
   <li><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/Fort_Carson.md">Fort Carson</a></li>
-  <li><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/Fort_Eustiss.md">Fort Eustiss</a></li>
+  <li><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/Fort_Drum.md">Fort Drum</a></li>
+  <li><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/Fort_Eustiss.md">Fort Eustis</a></li>
   <li><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/Fort_Hood.md">Fort Hood</a></li>
   <li><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/Fort_Knox.md">Fort Knox</a></li>
   <li><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/Fort_Lee.md"Fort Lee</a></li>
+  <li><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/Fort_Polk.md">Fort Polk</a></li>
+  <li><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/Fort_Riley.md">Fort Riley</a></li>
+  <li><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/Fort_Rucker.md">Fort Rucker</a></li>
   <li><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/JBLM.md">JBLM</a></li>
   <li><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/JBSA.md">JBSA</a></li>
 
