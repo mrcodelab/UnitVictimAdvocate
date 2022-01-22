@@ -4,7 +4,5 @@
 <br>
 <ul>
   <li><a href="https://home.army.mil/samhouston/index.php/my-ASA-1/services-directory/sharp">Fort Sam Houston SHARP</a></li>
-  <li><a href="">Randolph AFB SHARP</a></li>
-  <li><a href="">Lackland AFB SHARP</a></li>
-  <li><a href="">BAMC SHARP</a></li>
+  <li><a href="https://www.resilience.af.mil/SAPR/">Lackland AFB SHARP</a></li>
 </ul>
