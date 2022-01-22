@@ -6,7 +6,7 @@ import main.keywords as kw
 
 
 # Create the Reddit instance
-reddit = praw.Reddit('victimadvocate')
+reddit = praw.Reddit('UnitVictimAdvocate')
 
 # and login
 # reddit.login(REDDIT_USERNAME, REDDIT_PASS)
@@ -25,7 +25,7 @@ else:
 
 # Get the top 5 values from our subreddit
 subreddit = reddit.subreddit('Army')
-for submission in subreddit.new(limit=5):
+for submission in subreddit.new(limit=1):
     # print(submission.title)
 
     # If we haven't replied to this post before
