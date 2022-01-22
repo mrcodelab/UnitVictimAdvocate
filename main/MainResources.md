@@ -26,7 +26,7 @@
   <li><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/Fort_Eustiss.md">Fort Eustis</a></li>
   <li><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/Fort_Hood.md">Fort Hood</a></li>
   <li><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/Fort_Knox.md">Fort Knox</a></li>
-  <li><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/Fort_Lee.md"Fort Lee</a></li>
+  <li><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/Fort_Lee.md">Fort Lee</a></li>
   <li><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/Fort_Polk.md">Fort Polk</a></li>
   <li><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/Fort_Riley.md">Fort Riley</a></li>
   <li><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/Fort_Rucker.md">Fort Rucker</a></li>
