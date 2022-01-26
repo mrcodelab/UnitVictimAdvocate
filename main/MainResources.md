@@ -1,4 +1,5 @@
 <h1>Victim Assistance Resources</h1>
+<h2>Reporting an assault will not result in negative consequences against you, nor will it degrade your career. Please seek help and justice.</h2>
 
 <ul>
   <li><a href="https://www.armyresilience.army.mil/sharp/pages/assaulted.html">Army Resilience SHARP</a></li>
@@ -11,12 +12,12 @@
 
 </ul><br>
 
-<h2><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/ArmyReserve.md">Army Reserve</a></h2>
+<h3><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/ArmyReserve.md">Army Reserve</a></h3>
 
 
-<h2><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/NationalGuard.md">National Guard</a></h2>
+<h3><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/NationalGuard.md">National Guard</a></h3>
 
-<h2>Collected Base Resources</h2>
+<h3>Collected Base Resources</h3>
 <ul>
   <li><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/Fort_Belvoir.md">Fort Belvoir</a></li>
   <li><a href="https://github.com/mrcodelab/UnitVictimAdvocate/blob/main/main/BaseResources/Fort_Benning.md">Fort Benning</a></li>
