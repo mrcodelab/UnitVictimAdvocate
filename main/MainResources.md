@@ -1,4 +1,4 @@
-<h1>A List Of Victim Assistance Resources</h1>
+<h1>Victim Assistance Resources</h1>
 
 <ul>
   <li><a href="https://www.armyresilience.army.mil/sharp/pages/assaulted.html">Army Resilience SHARP</a></li>
